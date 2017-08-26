@@ -1,0 +1,7 @@
+#Sat Aug 26 12:31:18 ICT 2017
+base.0=X\:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ece31f4d078173d213ca97675e778a345ae0aaec
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=X\:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_62b46a5dd2707f57e243367d1ef6c583c7db7ffb\\classes.dex
+base.1=X\:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_62b46a5dd2707f57e243367d1ef6c583c7db7ffb
+file.0=X\:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ece31f4d078173d213ca97675e778a345ae0aaec\\classes.dex

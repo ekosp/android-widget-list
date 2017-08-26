@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="X:\Android Projects\appwidget-listview-appwidget-listview1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="X:\Android Projects\appwidget-listview-appwidget-listview1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ece31f4d078173d213ca97675e778a345ae0aaec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\eko.mct\.android\build-cache\ee28fc21b181d3591d35c34553d95a68d445bbff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="X:\Android Projects\appwidget-listview-appwidget-listview1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b76a7aab2c39b9824c0c3267c568d3490a5c4317\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\Android Projects\appwidget-listview-appwidget-listview1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cc6af5dd76d97c0a3a653fb33d07451eb0c96eb8">
+        <dex dex="X:\Android Projects\appwidget-listview-appwidget-listview1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_62b46a5dd2707f57e243367d1ef6c583c7db7ffb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\eko.mct\.android\build-cache\e8d1deafad0856648fcd89b7adf003cb658336bb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="X:\Android Projects\appwidget-listview-appwidget-listview1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_23c199289bb7e43160fb186a5a263b9546087d2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\eko.mct\.android\build-cache\332f45deee635d44216babb28a8989ffae616da6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="X:\Android Projects\appwidget-listview-appwidget-listview1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31732786bfbc40d666c990c93cfb9450831ef41b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\eko.mct\.android\build-cache\17222fa6f23ccb124f6383159223ff8a30f6049c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="X:\Android Projects\appwidget-listview-appwidget-listview1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad3ef3ac78c4adc7a07b0041df7cc291f9b6d2c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\eko.mct\.android\build-cache\5c2225473dc773e516346dec4d79dfa73123dee6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="X:\Android Projects\appwidget-listview-appwidget-listview1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e92428b55325227d2eba82d5a7be1fb4622b8baa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="X:\Android Projects\appwidget-listview-appwidget-listview1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_b070f5f5dc5758def2327efb15685516753be6e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\eko.mct\.android\build-cache\d67206c3c951ef68a7121d6daa028aaf45f30e50\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="X:\Android Projects\appwidget-listview-appwidget-listview1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_156bc3973a3c34d7251cb7d69271d0e1094effb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\eko.mct\.android\build-cache\ce7fc370650862b2f90af41e9f854429487353a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="X:\Android Projects\appwidget-listview-appwidget-listview1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_799bc4f994656179ec9b550bab44760e25610aa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\eko.mct\.android\build-cache\fb4a74eb36fb46a49feb4f17f7947edb0718a1d8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="X:\Android Projects\appwidget-listview-appwidget-listview1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03716e7de4113abcaf62df158b0aa4947229b181\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\eko.mct\.android\build-cache\2a5da2f87463dc6f14cf85a1cbe20e8e05c8d1b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="X:\Android Projects\appwidget-listview-appwidget-listview1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64edcf9bc2ae99b4ec596040dc7493ab49205354\classes.dex" />
+    </item>
+
+</items>

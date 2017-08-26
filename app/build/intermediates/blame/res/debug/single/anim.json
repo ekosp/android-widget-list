@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "X:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\eko.mct\\.android\\build-cache\\5c2225473dc773e516346dec4d79dfa73123dee6\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "X:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\eko.mct\\.android\\build-cache\\5c2225473dc773e516346dec4d79dfa73123dee6\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "X:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\eko.mct\\.android\\build-cache\\5c2225473dc773e516346dec4d79dfa73123dee6\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "X:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\eko.mct\\.android\\build-cache\\5c2225473dc773e516346dec4d79dfa73123dee6\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "X:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\eko.mct\\.android\\build-cache\\5c2225473dc773e516346dec4d79dfa73123dee6\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "X:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\eko.mct\\.android\\build-cache\\5c2225473dc773e516346dec4d79dfa73123dee6\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "X:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\eko.mct\\.android\\build-cache\\5c2225473dc773e516346dec4d79dfa73123dee6\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "X:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\eko.mct\\.android\\build-cache\\5c2225473dc773e516346dec4d79dfa73123dee6\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "X:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\eko.mct\\.android\\build-cache\\5c2225473dc773e516346dec4d79dfa73123dee6\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "X:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\eko.mct\\.android\\build-cache\\5c2225473dc773e516346dec4d79dfa73123dee6\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    }
+]

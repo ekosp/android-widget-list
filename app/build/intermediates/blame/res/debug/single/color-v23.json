@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "X:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\eko.mct\\.android\\build-cache\\5c2225473dc773e516346dec4d79dfa73123dee6\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "X:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\eko.mct\\.android\\build-cache\\5c2225473dc773e516346dec4d79dfa73123dee6\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "X:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\eko.mct\\.android\\build-cache\\5c2225473dc773e516346dec4d79dfa73123dee6\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "X:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\eko.mct\\.android\\build-cache\\5c2225473dc773e516346dec4d79dfa73123dee6\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "X:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\eko.mct\\.android\\build-cache\\5c2225473dc773e516346dec4d79dfa73123dee6\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "X:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\eko.mct\\.android\\build-cache\\5c2225473dc773e516346dec4d79dfa73123dee6\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "X:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\eko.mct\\.android\\build-cache\\5c2225473dc773e516346dec4d79dfa73123dee6\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "X:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\eko.mct\\.android\\build-cache\\5c2225473dc773e516346dec4d79dfa73123dee6\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "X:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\eko.mct\\.android\\build-cache\\5c2225473dc773e516346dec4d79dfa73123dee6\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "X:\\Android Projects\\appwidget-listview-appwidget-listview1\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\eko.mct\\.android\\build-cache\\5c2225473dc773e516346dec4d79dfa73123dee6\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    }
+]
